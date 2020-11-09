@@ -1,0 +1,12 @@
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.AssemblyInfo.cs
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\bin\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.deps.json
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\bin\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.dll
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\bin\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.pdb
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.dll
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.pdb
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\bin\Debug\netcoreapp3.1\BattleShipGame.Domain.dll
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\bin\Debug\netcoreapp3.1\BattleShipGame.Domain.pdb
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.csprojAssemblyReference.cache
+C:\Users\preet\source\repos\BattleShipGame.ApplicationService\obj\Debug\netcoreapp3.1\BattleShipGame.ApplicationService.csproj.CopyComplete

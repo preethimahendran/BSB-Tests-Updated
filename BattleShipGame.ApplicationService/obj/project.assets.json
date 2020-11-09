@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattleShipGame.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BattleShipGame.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleShipGame.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleShipGame.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BattleShip.Domain/BattleShipGame.Domain.csproj",
+      "msbuildProject": "../BattleShip.Domain/BattleShipGame.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BattleShipGame.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\preet\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\preet\\OneDrive\\Documents\\My Projects\\repos\\BattleShipGame.ApplicationService\\BattleShipGame.ApplicationService.csproj",
+      "projectName": "BattleShipGame.ApplicationService",
+      "projectPath": "C:\\Users\\preet\\OneDrive\\Documents\\My Projects\\repos\\BattleShipGame.ApplicationService\\BattleShipGame.ApplicationService.csproj",
+      "packagesPath": "C:\\Users\\preet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\preet\\OneDrive\\Documents\\My Projects\\repos\\BattleShipGame.ApplicationService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\preet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\preet\\OneDrive\\Documents\\My Projects\\repos\\BattleShip.Domain\\BattleShipGame.Domain.csproj": {
+              "projectPath": "C:\\Users\\preet\\OneDrive\\Documents\\My Projects\\repos\\BattleShip.Domain\\BattleShipGame.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

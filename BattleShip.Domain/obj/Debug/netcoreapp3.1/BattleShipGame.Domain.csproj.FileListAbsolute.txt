@@ -1,0 +1,8 @@
+C:\Users\preet\source\repos\BattleShip.Domain\obj\Debug\netcoreapp3.1\BattleShipGame.Domain.AssemblyInfoInputs.cache
+C:\Users\preet\source\repos\BattleShip.Domain\obj\Debug\netcoreapp3.1\BattleShipGame.Domain.AssemblyInfo.cs
+C:\Users\preet\source\repos\BattleShip.Domain\obj\Debug\netcoreapp3.1\BattleShipGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\preet\source\repos\BattleShip.Domain\bin\Debug\netcoreapp3.1\BattleShipGame.Domain.deps.json
+C:\Users\preet\source\repos\BattleShip.Domain\bin\Debug\netcoreapp3.1\BattleShipGame.Domain.dll
+C:\Users\preet\source\repos\BattleShip.Domain\bin\Debug\netcoreapp3.1\BattleShipGame.Domain.pdb
+C:\Users\preet\source\repos\BattleShip.Domain\obj\Debug\netcoreapp3.1\BattleShipGame.Domain.dll
+C:\Users\preet\source\repos\BattleShip.Domain\obj\Debug\netcoreapp3.1\BattleShipGame.Domain.pdb
